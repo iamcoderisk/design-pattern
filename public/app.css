@@ -1,0 +1,40 @@
+*{
+  padding: 0px;
+  margin:0px;
+
+}
+html,body{
+  background: #f7f7f7;
+}
+.form-field{
+  width: 80%;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 10px;
+}
+input[type='text'], input[type='password']
+{
+  width: 50%;
+  border:0px;
+  padding: 20px;
+  font-size:15px;
+  font-family: "roboto",sans-serif;
+  border-radius: 10px;
+}
+label{
+  font-family: "roboto",sans-serif;
+  padding: 10px;
+}
+button{
+  padding: 20px;
+  border:0px;
+  border-radius: 5px;
+  font-family: "roboto",sans-serif;
+
+}
+.pass-info{
+  color: #d52b44;
+}
+.figure {
+    display: inline-block;
+}
